@@ -86,3 +86,5 @@ VisGuard/
     ├── .gitignore
     └── package-lock.json
 ```
+**Interface**
+<img width="1488" height="878" alt="Interface" src="https://github.com/user-attachments/assets/327c5838-3a43-4ed5-b2f4-b9251f84b1f2" />
