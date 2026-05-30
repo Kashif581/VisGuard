@@ -1,0 +1,17 @@
+# Image & Video Processing
+opencv-python-headless
+numpy
+
+# Machine Learning & Embeddings
+scikit-learn
+torch
+torchvision
+sentence-transformers
+transformers
+pillow
+
+# Database & Vector Search
+pymilvus
+
+# Utilities
+python-dotenv
