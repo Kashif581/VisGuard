@@ -1,3 +1,5 @@
+**Project Structure**
+```
 VisGuard/
 ├── 📄 index.html              # Entry HTML file
 ├── 📄 package.json            # Project dependencies & scripts
@@ -83,3 +85,4 @@ VisGuard/
     ├── .git/                  # Git repository
     ├── .gitignore
     └── package-lock.json
+```
