@@ -1,6 +1,8 @@
 **Interface**
 <img width="1488" height="878" alt="Page" src="https://github.com/user-attachments/assets/fa07abe4-4cf4-4112-894c-40b5354af097" />
 <img width="1488" height="878" alt="Interface" src="https://github.com/user-attachments/assets/cc2c43bf-ca06-486e-9e6a-6fc916837d04" />
+<img width="1488" height="878" alt="dash" src="https://github.com/user-attachments/assets/09267247-5b19-41f7-afe3-011c446bc6ae" />
+
 
 
 
