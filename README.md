@@ -3,6 +3,8 @@
 <img width="1488" height="878" alt="Interface" src="https://github.com/user-attachments/assets/cc2c43bf-ca06-486e-9e6a-6fc916837d04" />
 <img width="1488" height="878" alt="dash" src="https://github.com/user-attachments/assets/09267247-5b19-41f7-afe3-011c446bc6ae" />
 
+**Workflow**
+<img width="1488" height="1678" alt="Workflow" src="https://github.com/user-attachments/assets/ad6dd433-0fcd-4dbe-8aec-2ba50ecd03b7" />
 
 
 
